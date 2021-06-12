@@ -1,0 +1,154 @@
+# depslib dependency file v1.0
+1623259716 source:d:\kpk\Проекти cb\foodshop\main.cpp
+	<iostream>
+	"Interface.h"
+
+1623318553 source:d:\kpk\Проекти cb\foodshop\models\sale.cpp
+	"Sale.h"
+
+1623318083 d:\kpk\Проекти cb\foodshop\models\sale.h
+	<iostream>
+
+1623239237 source:d:\kpk\Проекти cb\foodshop\models\worker.cpp
+	"Worker.h"
+
+1623240281 d:\kpk\Проекти cb\foodshop\models\worker.h
+	<iostream>
+
+1623240341 source:d:\kpk\Проекти cb\foodshop\models\product.cpp
+	"Product.h"
+
+1623240269 d:\kpk\Проекти cb\foodshop\models\product.h
+	<iostream>
+
+1623262465 source:d:\kpk\Проекти cb\foodshop\models\products.cpp
+	"Products.h"
+
+1623262448 d:\kpk\Проекти cb\foodshop\models\products.h
+	<iostream>
+
+1623318553 source:d:\kpk\Проекти cb\foodshop\shoplist.cpp
+	"ShopList.h"
+
+1623259452 d:\kpk\Проекти cb\foodshop\shoplist.h
+	<conio.h>
+	<ctime>
+	<fstream>
+	<list>
+	"Products.h"
+	"Worker.h"
+	"Sale.h"
+
+1623262448 d:\kpk\Проекти cb\foodshop\models\\products.h
+	<iostream>
+
+1623240281 d:\kpk\Проекти cb\foodshop\models\\worker.h
+	<iostream>
+
+1623318083 d:\kpk\Проекти cb\foodshop\models\\sale.h
+	<iostream>
+
+1623340147 source:d:\kpk\Проекти cb\foodshop\interface.cpp
+	"Interface.h"
+
+1623259429 d:\kpk\Проекти cb\foodshop\interface.h
+	"ShopList.h"
+
+1623340147 source:c:\users\admin\desktop\foodshop\interface.cpp
+	"Interface.h"
+
+1623259429 c:\users\admin\desktop\foodshop\interface.h
+	"ShopList.h"
+
+1623259452 c:\users\admin\desktop\foodshop\shoplist.h
+	<conio.h>
+	<ctime>
+	<fstream>
+	<list>
+	"Products.h"
+	"Worker.h"
+	"Sale.h"
+
+1623262448 c:\users\admin\desktop\foodshop\models\\products.h
+	<iostream>
+
+1623240281 c:\users\admin\desktop\foodshop\models\\worker.h
+	<iostream>
+
+1623318083 c:\users\admin\desktop\foodshop\models\\sale.h
+	<iostream>
+
+1623489821 source:c:\users\admin\desktop\foodshop\main.cpp
+	<iostream>
+	"Interface.h"
+
+1623262465 source:c:\users\admin\desktop\foodshop\models\products.cpp
+	"Products.h"
+
+1623262448 c:\users\admin\desktop\foodshop\models\products.h
+	<iostream>
+
+1623318553 source:c:\users\admin\desktop\foodshop\models\sale.cpp
+	"Sale.h"
+
+1623318083 c:\users\admin\desktop\foodshop\models\sale.h
+	<iostream>
+
+1623239237 source:c:\users\admin\desktop\foodshop\models\worker.cpp
+	"Worker.h"
+
+1623240281 c:\users\admin\desktop\foodshop\models\worker.h
+	<iostream>
+
+1623318553 source:c:\users\admin\desktop\foodshop\shoplist.cpp
+	"ShopList.h"
+
+1623504784 source:e:\Робота\Курсова\foodshop\interface.cpp
+	"Interface.h"
+
+1623259429 e:\Робота\Курсова\foodshop\interface.h
+	"ShopList.h"
+
+1623259452 e:\Робота\Курсова\foodshop\shoplist.h
+	<conio.h>
+	<ctime>
+	<fstream>
+	<list>
+	"Products.h"
+	"Worker.h"
+	"Sale.h"
+
+1623262448 e:\Робота\Курсова\foodshop\models\\products.h
+	<iostream>
+
+1623240281 e:\Робота\Курсова\foodshop\models\\worker.h
+	<iostream>
+
+1623318083 e:\Робота\Курсова\foodshop\models\\sale.h
+	<iostream>
+
+1623489821 source:e:\Робота\Курсова\foodshop\main.cpp
+	<iostream>
+	"Interface.h"
+
+1623503831 source:e:\Робота\Курсова\foodshop\models\products.cpp
+	"Products.h"
+
+1623262448 e:\Робота\Курсова\foodshop\models\products.h
+	<iostream>
+
+1623503872 source:e:\Робота\Курсова\foodshop\models\sale.cpp
+	"Sale.h"
+
+1623318083 e:\Робота\Курсова\foodshop\models\sale.h
+	<iostream>
+
+1623504814 source:e:\Робота\Курсова\foodshop\models\worker.cpp
+	"Worker.h"
+
+1623240281 e:\Робота\Курсова\foodshop\models\worker.h
+	<iostream>
+
+1623504132 source:e:\Робота\Курсова\foodshop\shoplist.cpp
+	"ShopList.h"
+
